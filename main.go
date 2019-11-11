@@ -1,1 +1,5 @@
-package certmon
+package main
+
+func main() {
+
+}
